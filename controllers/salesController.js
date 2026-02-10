@@ -54,7 +54,7 @@ const getLeaderboard = async (req, res) => {
       },
     ]);
 
-    // Add rank using row_number style)
+    // Add rank using row_number style
     const rankedLeaderboard = leaderboard.map((entry, index) => ({
       rank: index + 1,
       agent_name: entry.agent_name,

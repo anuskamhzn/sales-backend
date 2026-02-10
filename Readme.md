@@ -47,7 +47,7 @@ sales-leaderboard-api/
 ├── server.js
 ├── package.json
 └── README.md
-
+```
 ## Installation & Setup
 -  Clone the repository
 ```bash

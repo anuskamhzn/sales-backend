@@ -32,6 +32,7 @@ Designed with correctness, performance, and clean code practices in mind — ide
 
 
 ## Project Structure
+```text
 sales-leaderboard-api/
 ├── config/
 │   └── db.js

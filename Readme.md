@@ -60,7 +60,7 @@ npm install
 - Create .env file
 Create a file named .env in the root directory and add:
 ```bash
-envPORT=your_backend_url
+PORT=your_backend_url
 MONGO_URI=your_mongdb_cluster_url
 ```
 

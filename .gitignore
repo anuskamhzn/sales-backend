@@ -21,7 +21,6 @@
 # env files
 .env
 .env.*
-sales-backend/.env
 
 !.env.example  # Allow example env file to stay in repo
 
